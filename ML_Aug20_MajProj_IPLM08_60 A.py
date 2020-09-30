@@ -6,10 +6,10 @@
 # In[85]:
 
 
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
+import numpy as np  #You have to install this library using your compiler terminal "pip install numpy"
+import pandas as pd  #You have to install this library using your compiler terminal "pip install pandas"
+import matplotlib.pyplot as plt #You have to install this library using your compiler terminal "pip install MATPLOTLIB"
+import seaborn as sns #You have to install this library using your compiler terminal "pip install SEABORN"
 get_ipython().run_line_magic('matplotlib', 'inline')
 from numpy.random import randint 
 
